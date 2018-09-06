@@ -1,7 +1,7 @@
 # nutshellify
 >  Text summarizer webapp using microsoft api.
 
-##Features
+## Features
 
 * summarizes the data
 * represent them in notes format
